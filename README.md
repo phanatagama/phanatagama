@@ -6,7 +6,7 @@
 
 <!--**Statistik Efektif**-->
 
-**My daily coding activity**
+**My weekly coding activity**
 
 <!--START_SECTION:waka-->
 ```text
@@ -34,8 +34,8 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 
 **Favorite repositories**
 
-[![Aan JS](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=PayloadsAllTheThings)](https://github.com/phanatagama/PayloadsAllTheThings)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=Panduan-Reverse-Code-Engineering)](https://github.com/phanatagama/Panduan-Reverse-Code-Engineering)
+[![PayloadAllTheThings](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=PayloadsAllTheThings)](https://github.com/phanatagama/PayloadsAllTheThings)
+[![ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=Panduan-Reverse-Code-Engineering)](https://github.com/phanatagama/Panduan-Reverse-Code-Engineering)
 
 <!--**Project**-->
  
@@ -48,7 +48,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 ### (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ
 <!--
 
-![phanatagama's github stats](https://github-readme-stats.vercel.app/api?username=phanatagama&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false)
+![phanatagama's github stats](https://github-readme-stats.vercel.app/api?username=phanatagama&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=true)
 
 <!--
 **phanatagama/phanatagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
