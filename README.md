@@ -6,7 +6,7 @@
 
 <!--**Statistik Efektif**-->
 
-**My weekly coding activity**
+**My Daily Coding Activity**
 
 <!--START_SECTION:waka-->
 ```text
@@ -18,21 +18,21 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-**My contribution**
+**My Contribution**
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
 
-**My activity on Github**
+**My Activity on Github**
 
 <!--START_SECTION:activity-->
-1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama](https://github.com/phanatagama/Data-Science)
-2. undefined
+1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
+2. 🌱 Learning Cyber Security and Penetration Test
 3. undefined
 4. undefined
 5. undefined
 <!--END_SECTION:activity-->
 
-**Favorite repositories**
+**Favorite Repositories**
 
 [![PayloadAllTheThings](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=PayloadsAllTheThings)](https://github.com/phanatagama/PayloadsAllTheThings)
 [![ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=Panduan-Reverse-Code-Engineering)](https://github.com/phanatagama/Panduan-Reverse-Code-Engineering)
