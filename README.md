@@ -6,10 +6,10 @@
 
  <a href="https://travis-ci.org/Dogfalo/materialize">
       <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
-    </a>
-    <a href="https://david-dm.org/Dogfalo/materialize">
+    </a><br>
+ <a href="https://david-dm.org/Dogfalo/materialize">
       <img src="https://david-dm.org/Dogfalo/materialize/status.svg" alt="dependencies Status badge">
-      </a>
+    </a>
       
 <!--**Statistik Efektif**-->
 
