@@ -13,13 +13,14 @@
 **My Daily Coding Activity**
 
 <!--START_SECTION:waka-->
-```text
+![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
+<!--```text
 Python  5 hrs 19 mins   ████████████░░░░░░░░░░░░░   49.44 % 
 DS      4 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   39.61 % 
 Other   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 Diff    12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 Text    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-```
+```-->
 <!--END_SECTION:waka-->
 
 **My Contribution**
