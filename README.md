@@ -39,7 +39,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 
 **Favorite Repositories**
 
-[![PayloadAllTheThings](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=PayloadsAllTheThings)](https://github.com/phanatagama/PayloadsAllTheThings)
+[![OSCP-Prep](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=OSCP-Prep)](https://github.com/phanatagama/OSCP-Prep)
 [![ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=Panduan-Reverse-Code-Engineering)](https://github.com/phanatagama/Panduan-Reverse-Code-Engineering)
 
 <!--**Project**-->
