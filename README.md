@@ -31,7 +31,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
-2. 🌱 Learning Cyber Security and Penetration Test
+2. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
 3. undefined
 4. undefined
 5. undefined
