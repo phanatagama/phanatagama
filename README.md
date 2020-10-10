@@ -14,8 +14,10 @@
 <hr>
 
 <!--START_SECTION:waka-->
+[![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
 ![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
+<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
+
 <!--```text
 Python  5 hrs 19 mins   ████████████░░░░░░░░░░░░░   49.44 % 
 DS      4 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   39.61 % 
@@ -25,12 +27,12 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 ```-->
 <!--END_SECTION:waka-->
 
-**My Contribution**
+<!--**My Contribution**
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
 **My Activity on Github**
-<hr>
+
 <!--START_SECTION:activity-->
 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
 2. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
