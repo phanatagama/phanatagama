@@ -15,8 +15,9 @@
 
 <!--START_SECTION:waka-->
 [![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
-![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
+![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
+
 
 <!--```text
 Python  5 hrs 19 mins   ████████████░░░░░░░░░░░░░   49.44 % 
@@ -32,7 +33,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
 **My Activity on Github**
-
+<hr><p>
 <!--START_SECTION:activity-->
 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
 2. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
@@ -40,9 +41,9 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 4. undefined
 5. undefined
 <!--END_SECTION:activity-->
-
+</p>
 **Experience**
-<hr><p>
+<p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
