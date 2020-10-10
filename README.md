@@ -3,17 +3,17 @@
 <!--[Waka Readme](https://github.com/mzaini30/mzaini30/workflows/Waka%20Readme/badge.svg)
 ![Update README](https://github.com/mzaini30/mzaini30/workflows/Update%20README/badge.svg)-->
 ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=phanatagama.phanatagama) <a href="https://travis-ci.org/Dogfalo/materialize">
-      <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
+<!--       <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
     </a> <a href="https://david-dm.org/Dogfalo/materialize">
       <img src="https://david-dm.org/Dogfalo/materialize/status.svg" alt="dependencies Status badge">
-    </a> <a href="">
+    </a> --><a href="">
       <img src="https://img.shields.io/twitter/follow/AgaScoot_Reggae?color=red&label=Twitter&style=plastic">
       </a>
       
 <!--**Statistik Efektif**-->
 
-# My Daily Coding Activity
-<hr>
+## My Daily Coding Activity
+
 
 <!--START_SECTION:waka-->
 [![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
@@ -34,7 +34,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
 ## My Activity on Github
-<hr>
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
