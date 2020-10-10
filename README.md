@@ -3,8 +3,8 @@
 <!--[Waka Readme](https://github.com/mzaini30/mzaini30/workflows/Waka%20Readme/badge.svg)
 ![Update README](https://github.com/mzaini30/mzaini30/workflows/Update%20README/badge.svg)-->
 ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=phanatagama.phanatagama) <a href="https://travis-ci.org/Dogfalo/materialize">
-<!--       <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
-    </a> <a href="https://david-dm.org/Dogfalo/materialize">
+      <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
+    </a> <!--<a href="https://david-dm.org/Dogfalo/materialize">
       <img src="https://david-dm.org/Dogfalo/materialize/status.svg" alt="dependencies Status badge">
     </a> --><a href="">
       <img src="https://img.shields.io/twitter/follow/AgaScoot_Reggae?color=red&label=Twitter&style=plastic">
