@@ -52,8 +52,6 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> -->
-  
-  <img src="https://img.shields.io/badge/PYTHON-success?&style=for-the-badge&logo=python&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> -->
 <!--   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> -->
   
