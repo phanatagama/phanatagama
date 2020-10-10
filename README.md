@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 [![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
-<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
+<p><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
 ![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
 
 
@@ -62,6 +62,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 <!--   <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> -->
 
 </p>
+
 **Favorite Repositories**
 
 [![OSCP-Prep](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=OSCP-Prep)](https://github.com/phanatagama/OSCP-Prep)
