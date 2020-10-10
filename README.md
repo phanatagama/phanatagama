@@ -12,7 +12,7 @@
 
 **My Daily Coding Activity**
 <hr>
-<p align="center">
+
 <!--START_SECTION:waka-->
 ![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
@@ -24,7 +24,7 @@ Diff    12 mins         ░░░░░░░░░░░░░░░░░░�
 Text    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```-->
 <!--END_SECTION:waka-->
-</p>
+
 **My Contribution**
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
