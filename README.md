@@ -11,7 +11,8 @@
 <!--**Statistik Efektif**-->
 
 **My Daily Coding Activity**
-
+<hr>
+<p align="center">
 <!--START_SECTION:waka-->
 ![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
@@ -23,13 +24,13 @@ Diff    12 mins         ░░░░░░░░░░░░░░░░░░�
 Text    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```-->
 <!--END_SECTION:waka-->
-
+</p>
 **My Contribution**
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
 
 **My Activity on Github**
-
+<hr>
 <!--START_SECTION:activity-->
 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
 2. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
@@ -39,7 +40,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 **Experience**
-<p>
+<hr><p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
