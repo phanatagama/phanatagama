@@ -17,7 +17,6 @@
 
 <!--START_SECTION:waka-->
 [![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
-
 ![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
 <!--<p><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>-->
 
@@ -35,7 +34,8 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
 **My Activity on Github**
-<hr><p>
+<hr>
+
 <!--START_SECTION:activity-->
 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
 2. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
@@ -43,7 +43,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 4. undefined
 5. undefined
 <!--END_SECTION:activity-->
-</p>
+
 
 **Experience**
 <p>
