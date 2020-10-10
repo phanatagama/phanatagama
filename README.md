@@ -6,7 +6,9 @@
       <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
     </a> <a href="https://david-dm.org/Dogfalo/materialize">
       <img src="https://david-dm.org/Dogfalo/materialize/status.svg" alt="dependencies Status badge">
-    </a>
+    </a> <a href="">
+      <img src="https://img.shields.io/twitter/follow/AgaScoot_Reggae?label=Follow&style=social">
+      </a>
       
 <!--**Statistik Efektif**-->
 
@@ -15,9 +17,9 @@
 
 <!--START_SECTION:waka-->
 [![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
-<p><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
-![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
 
+![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
+<p><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
 
 <!--```text
 Python  5 hrs 19 mins   ████████████░░░░░░░░░░░░░   49.44 % 
@@ -42,6 +44,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 5. undefined
 <!--END_SECTION:activity-->
 </p>
+
 **Experience**
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
