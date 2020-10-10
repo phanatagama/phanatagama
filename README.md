@@ -12,7 +12,7 @@
       
 <!--**Statistik Efektif**-->
 
-**My Daily Coding Activity**
+# My Daily Coding Activity
 <hr>
 
 <!--START_SECTION:waka-->
@@ -33,7 +33,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
-**My Activity on Github**
+## My Activity on Github
 <hr>
 
 <!--START_SECTION:activity-->
@@ -45,7 +45,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 
-**Experience**
+## Experience
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
