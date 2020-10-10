@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-[![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)]
 ![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
 <!--<p><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>-->
 
