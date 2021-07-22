@@ -21,8 +21,8 @@
 <!--<p><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>-->
 
 <!--```text
-Python  5 hrs 19 mins   ████████████░░░░░░░░░░░░░   49.44 % 
-DS      4 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   39.61 % 
+JS  5 hrs 19 mins   ████████████░░░░░░░░░░░░░   49.44 % 
+PHP      4 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   39.61 % 
 Other   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 Diff    12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 Text    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
@@ -38,8 +38,8 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
-2. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
-3. undefined
+2. Learning MERN stack(MongoDB, ExpressJS, ReactJS, Node)
+3. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
 4. undefined
 5. undefined
 <!--END_SECTION:activity-->
