@@ -13,6 +13,9 @@
 <!--**Statistik Efektif**-->
 
 ## Github Analytics
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=phanatagama&no-bg=true&no-frame=true&theme=onestar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 
 <!--START_SECTION:waka-->
@@ -41,9 +44,20 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
-## My Activity on Github
+## 📊 My Activity on Github
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/phanatagama"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=phanatagama&theme=highcontrast"/></a>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+</details>
 
-
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+   
 <!--START_SECTION:activity-->
 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
 2. Learning MERN stack(MongoDB, ExpressJS, ReactJS, Node)
@@ -51,9 +65,9 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 4. undefined
 5. undefined
 <!--END_SECTION:activity-->
+</details>
 
-
-## Experience
+## 👨‍💻 Experience
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <!--  <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> -->
@@ -81,20 +95,20 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 
 </p>
 
-## Softwares
+## 💻 Softwares
 <p>
       <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
       <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
       <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-      <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+
       
 </p>
 
 <br>
 <br>
 
-**Favorite Repositories**
+📕 **Favorite Repositories**
 
 [![OSCP-Prep](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=OSCP-Prep&theme=midnight-purple)](https://github.com/phanatagama/OSCP-Prep)
 [![ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=Panduan-Reverse-Code-Engineering&theme=midnight-purple)](https://github.com/phanatagama/Panduan-Reverse-Code-Engineering)
