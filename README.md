@@ -2,22 +2,30 @@
 
 <!--[Waka Readme](https://github.com/mzaini30/mzaini30/workflows/Waka%20Readme/badge.svg)
 ![Update README](https://github.com/mzaini30/mzaini30/workflows/Update%20README/badge.svg)-->
-![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=phanatagama.phanatagama) <a href="https://travis-ci.org/Dogfalo/materialize">
-      <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
-    </a> <!--<a href="https://david-dm.org/Dogfalo/materialize">
-      <img src="https://david-dm.org/Dogfalo/materialize/status.svg" alt="dependencies Status badge">
-    </a> --><a href="">
-      <img src="https://img.shields.io/twitter/follow/AgaScoot_Reggae?color=red&label=Twitter&style=plastic">
+<p align="center">
+<!--  ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=phanatagama.phanatagama) <a href="https://travis-ci.org/Dogfalo/materialize"></a>  -->
+   <a href="">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=phanatagama.phanatagama">
+         <img src="https://img.shields.io/twitter/follow/AgaScoot_Reggae?color=red&label=Twitter&style=flat-square">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UC3tF03J2dqJVmrKuYK2rNIA?label=Youtube&style=flat-square">
       </a>
-      
+</p>      
 <!--**Statistik Efektif**-->
 
-## My Daily Coding Activity
+## Github Analytics
 
 
 <!--START_SECTION:waka-->
-![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama)
-![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=phanatagama&hide_langs_below=1&theme=tokyonight)
+<!-- ![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama) -->
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phanatagama&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phanatagama&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
+
+<!-- ![Phanatagama Contribution Stats](https://github-readme-stats.vercel.app/api?username=phanatagama&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
+![language_stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phanatagama&layout=compact&langs_count=8&theme=midnight-purple) -->
 <!--<p><img src="https://github.githubassets.com/images/mona-whisper.gif" /></p>-->
 
 <!--```text
@@ -64,17 +72,32 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <!--  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/PYTHON-success?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DJANGO-blueviolet?&style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-blueviolet?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-violet?&style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-orange?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <!--  <img src="https://img.shields.io/badge/WORDPRESS-9cf?&style=for-the-badge&logo=wordpress&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> -->
 
 </p>
 
+## Softwares
+<p>
+      <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+      <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+      <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+      <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+      
+</p>
+
+<br>
+<br>
+
 **Favorite Repositories**
 
-[![OSCP-Prep](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=OSCP-Prep)](https://github.com/phanatagama/OSCP-Prep)
-[![ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=Panduan-Reverse-Code-Engineering)](https://github.com/phanatagama/Panduan-Reverse-Code-Engineering)
+[![OSCP-Prep](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=OSCP-Prep&theme=midnight-purple)](https://github.com/phanatagama/OSCP-Prep)
+[![ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=Panduan-Reverse-Code-Engineering&theme=midnight-purple)](https://github.com/phanatagama/Panduan-Reverse-Code-Engineering)
 
 <!--**Project**-->
  
@@ -85,10 +108,10 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 ![uwu](https://github.com/cacadosman/cacadosman/blob/master/tonton.PNG)
 ![uwu](https://github.com/cacadosman/cacadosman/blob/master/tonton.PNG)
 ### (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ
-<!--
-
+![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<!--  
 ![phanatagama's github stats](https://github-readme-stats.vercel.app/api?username=phanatagama&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=true)
-
+-->
 <!--
 **phanatagama/phanatagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
