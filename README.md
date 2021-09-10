@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 <!-- ![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phanatagama) -->
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/phanatagama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phanatagama&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phanatagama&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
@@ -79,16 +79,16 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
   
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/jQuery-ff69b4?&style=for-the-badge&logo=jquery&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
+<!--   <img src="https://img.shields.io/badge/jQuery-ff69b4?&style=for-the-badge&logo=jquery&logoColor=white"/> -->
 <!--  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> -->
 <!--  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/PYTHON-success?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REACT-blueviolet?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express-violet?&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-orange?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/REACT-blueviolet?&style=for-the-badge&logo=react&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/express-violet?&style=for-the-badge&logo=express&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/mongodb-orange?&style=for-the-badge&logo=mongodb&logoColor=white"/> -->
 <!--  <img src="https://img.shields.io/badge/WORDPRESS-9cf?&style=for-the-badge&logo=wordpress&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> -->
@@ -98,8 +98,8 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 ## 💻 Softwares
 <p>
       <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-      <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<!--       <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a>  -->
+<!--       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a>  -->
       <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 
       
