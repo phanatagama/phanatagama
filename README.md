@@ -59,7 +59,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
   <br/>
    
 <!--START_SECTION:activity-->
-1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science)
+1. undefined <!-- 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science) -->
 2. Learning MERN stack(MongoDB, ExpressJS, ReactJS, NodeJS)
 3. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
 4. undefined
@@ -108,11 +108,11 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 <br>
 <br>
 
-📕 **Favorite Repositories**
+<!-- 📕 **Favorite Repositories**
 
 [![OSCP-Prep](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=OSCP-Prep&theme=midnight-purple)](https://github.com/phanatagama/OSCP-Prep)
 [![ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=phanatagama&repo=Panduan-Reverse-Code-Engineering&theme=midnight-purple)](https://github.com/phanatagama/Panduan-Reverse-Code-Engineering)
-
+ -->
 <!--**Project**-->
  
 
