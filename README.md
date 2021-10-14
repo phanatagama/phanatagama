@@ -12,6 +12,10 @@
 </p>      
 <!--**Statistik Efektif**-->
 
+```
+$ curl --silent https://github.com/phanatagama.gpg | gpg --import
+```
+
 ## Github Analytics
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=phanatagama&no-bg=true&no-frame=true&theme=onestar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
