@@ -64,7 +64,7 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
   <br/>
    
 <!--START_SECTION:activity-->
-1. Learning Android Development (Flutter) <!-- 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science) -->
+1. Learning Android Development (Kotlin & Flutter) <!-- 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science) -->
 2. Learning MERN stack(MongoDB, ExpressJS, ReactJS, NodeJS)
 3. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
 4. undefined
