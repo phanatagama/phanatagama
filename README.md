@@ -17,10 +17,23 @@ $ curl --silent https://github.com/phanatagama.gpg | gpg --import
 ```
 
 ## Github Analytics
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=phanatagama&no-bg=true&no-frame=true&theme=onedark&column=7" />
+<div align="center">
+  <a href="https://phanatagama.vercel.app/">
+    <img src="https://raw.githubusercontent.com/phanatagama/phanatagama/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  </a>
+</div>
+
+![snake svg](https://github.com/phanatagama/phanatagama/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align="center">
+  <a href="https://phanatagama.vercel.app/">
+    <h2>🏆 Github Profile Trophy 🏆</h2>  
+
+  <img alig src="https://github-profile-trophy.vercel.app/?username=phanatagama&no-bg=true&no-frame=true&theme=onedark&column=8" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
-</p>
+ </a>
+</div>
 
 
 <!--START_SECTION:waka-->
