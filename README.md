@@ -19,7 +19,7 @@ $ curl --silent https://github.com/phanatagama.gpg | gpg --import
 ## Github Analytics
 <div align="center">
   <a href="https://phanatagama.vercel.app/">
-    <img src="https://raw.githubusercontent.com/phanatagama/phanatagama/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+    <img src="https://raw.githubusercontent.com/phanatagama/phanatagama/master/profile-3d-contrib/profile-night-rainbow.svg"/>
   </a>
 </div>
 
